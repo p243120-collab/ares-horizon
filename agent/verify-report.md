@@ -11,6 +11,6 @@ Failures: 0, warnings: 1
 - **PASS** Tests
 - **PASS** Production build
 - **PASS** docs/SOURCES.md fully cited
-- **WARN** README placeholders filled: 2 '(fill in' markers left
+- **WARN** README placeholders filled: 1 '(fill in' markers left
 - **PASS** No secrets in the repository
 - **PASS** Git repository

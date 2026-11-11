@@ -4,7 +4,7 @@ A browser game and simulation engine for running a crewed outpost on Mars or the
 Power, air, water, heat, food and radiation depend on each other, so every decision has a cost somewhere else.
 Built for the NASA Space Apps Challenge on crewed lunar and Martian outposts.
 
-**Live demo:** (fill in: GitHub Pages link, task T03)
+**Live demo:** [https://p243120-collab.github.io/ares-horizon/](https://p243120-collab.github.io/ares-horizon/)
 
 ## What it does
 
