@@ -1,6 +1,6 @@
 # Verify report
 
-Failures: 0, warnings: 2
+Failures: 0, warnings: 1
 
 - **PASS** Node.js 18 or newer: found major version 26
 - **PASS** npm available
@@ -10,7 +10,7 @@ Failures: 0, warnings: 2
 - **PASS** TypeScript typecheck
 - **PASS** Tests
 - **PASS** Production build
-- **WARN** docs/SOURCES.md fully cited: 23 TODO markers left (task T04)
+- **PASS** docs/SOURCES.md fully cited
 - **WARN** README placeholders filled: 2 '(fill in' markers left
 - **PASS** No secrets in the repository
 - **PASS** Git repository
