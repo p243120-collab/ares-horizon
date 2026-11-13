@@ -4,8 +4,6 @@ A browser game and simulation engine for running a crewed outpost on Mars or the
 Power, air, water, heat, food and radiation depend on each other, so every decision has a cost somewhere else.
 Built for the NASA Space Apps Challenge on crewed lunar and Martian outposts.
 
-**Live demo:** [https://p243120-collab.github.io/ares-horizon/](https://p243120-collab.github.io/ares-horizon/)
-
 ## What it does
 
 - Coupled life-support model: solar and nuclear power, battery, CO2 scrubber, water recycler, electrolysis, Sabatier reactor, hydroponics, radiator louvers, heater, regolith shielding.
@@ -58,7 +56,7 @@ See `docs/ARCHITECTURE.md` for the time-scaling maths and how to extend the game
 
 ## Honest limits
 
-Rates and sizes are simplified for gameplay. Every value marked ASSUMPTION in `src/engine/constants.ts` and `scenarios.ts` is tracked in `docs/SOURCES.md` until it is verified against a NASA source.
+Rates and sizes are simplified for gameplay. Every value marked ASSUMPTION in `src/engine/constants.ts` and `scenarios.ts` is tracked in `docs/SOURCES.md` until it is verified against a NASA source or an accepted public reference.
 
 ## Team
 
